@@ -1,16 +1,20 @@
 local words = {
-        'ur bad',
+        'ur bad🤢🤢🤮🤮',
         'seed',
-        'im not locking ur just bad',
-        'clown',
+        'im not hacking ur just bad',
+        'clown🤡🤡',
         'sonned',
         'how did u miss that many shots',
-        'badder than my grandma'
+        'worser than my grandma',
+        'imagine dying in a lego game 😂',
+        'you use jjsploit 😂',
+        'you better run',
+        'Lucid V on top💫'
 }
 
 
 local player = game.Players.LocalPlayer
-local keybind = 'y' -- keybind here 
+local keybind = 'y'
 
 local event = game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest
 

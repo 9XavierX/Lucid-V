@@ -12,7 +12,13 @@ local words = {
         'you better run',
         'Lucid V on top💫',
         'i dont care that im hacking😂',
-        'i use an alt so idc if i get banned 😎'
+        'UR DODGING XD😂😂',
+        'UR MY LONG MISSING SON',
+        'no one asked for you to talk',
+        'HOW IS THE GROUND👅',
+        'IS THAT ALL YOU HAVE!?!?',
+        'run 1s kid',
+        
 }
 
 

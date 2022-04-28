@@ -4,7 +4,7 @@ local words = {
         'im not hacking ur just bad🧑‍💻',
         'clown🤡🤡',
         'sonned',
-        'Lucid V on top💫',
+        'LucidWare on top💫',
         'how did u miss that many shots',
         'worser than my grandma',
         'imagine dying in a lego game 😂',
@@ -17,8 +17,9 @@ local words = {
         'no one asked for you to talk',
         'HOW IS THE GROUND👅',
         'IS THAT ALL YOU HAVE!?!?',
-        'run 1s kid',
-        
+        'just log kid',
+        'no one asked 😂',
+        'LucidWare on top💫'
 }
 
 

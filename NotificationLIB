@@ -1,4 +1,4 @@
-print('Notification Lib: BoredStuff2 on GitHub')
+print('LucidWare Notifications loaded')
 
 local isExistance = false
 

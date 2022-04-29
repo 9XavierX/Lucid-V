@@ -1,2 +1,2 @@
-# Lucid-V
+# Lucid-Ware
 Multi game script. Focused on untitled hood: https://web.roblox.com/games/9183932460/Untitled-Hood

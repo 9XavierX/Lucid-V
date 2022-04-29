@@ -1,4 +1,4 @@
---Right Click is keybind
+--Q is keybind
 local Area = game:GetService("Workspace")
 local RunService = game:GetService("RunService")
 local UIS = game:GetService("UserInputService")
@@ -64,8 +64,8 @@ function FindNearestPlayer()
 end
 
 UIS.InputBegan:Connect(function(Input)
-	if Input.UserInputType == Enum.UserInputType.MouseButton2 then
-		HoldingM2 = true
+	if Input.UserInputType == Enum.UserInputType.Q then
+		HoldingM2 = false
 		Active = true
 		Lock = true
 		if Active then
@@ -81,7 +81,7 @@ UIS.InputBegan:Connect(function(Input)
 	end
 end)
 UIS.InputEnded:Connect(function(Input)
-	if Input.UserInputType == Enum.UserInputType.MouseButton2 then
+	if Input.UserInputType == Enum.UserInputType.Keyboard.Q then
 		UnLockCursor()
 	end
 end)

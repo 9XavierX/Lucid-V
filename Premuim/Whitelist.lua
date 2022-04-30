@@ -1,0 +1,5 @@
+local whitelist = {
+
+}
+
+--Hwid here

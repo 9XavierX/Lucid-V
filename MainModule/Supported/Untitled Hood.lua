@@ -1,10 +1,9 @@
 --//LucidWare People
-
 local Owner = game:GetService("Players"):GetPlayerByUserId(998354818)
 local Admin = game:GetService("Players"):GetPlayerByUserId(2200043141)
 --//Setup
 local SolarisLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/9XavierX/Lucid-Ware/main/MainModule/SolarisLib.lua"))()
-local NotifyLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/9XavierX/Lucid-Ware/main/NotificationLIB"))()
+local NotifyLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/9XavierX/Lucid-Ware/main/NotificationLIB.lua"))()
 NotifyLib.prompt('GameLoader', 'Game found: Untitled Hood', 3)
 NotifyLib.prompt('LucidWare', 'Loading..', 5)
 wait(2)

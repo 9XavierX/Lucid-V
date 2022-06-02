@@ -1,2 +1,2 @@
 # Lucid-Ware
-Multi game script. Focused on untitled hood: https://web.roblox.com/games/9183932460/Untitled-Hood
+A roblox game hub used to hack in many different games. Mostly focused on FPS games, (First person shooter)
